@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T11:49:56+09:00",
+ "generatedAt": "2026-10-31T05:46:58+09:00",
  "spec": "1200x600 JPEG (Apps in Toss OG rule)",
  "images": [
   {
@@ -136,14 +136,16 @@
    "appName": "coupon-expiry-bot",
    "miniAppId": 41106,
    "title": "기프티콘 만료 관리",
-   "kind": "thumbnail",
+   "kind": "game-submission",
    "file": "coupon-expiry-bot.jpg",
    "size": [
     1200,
     600
    ],
-   "bytes": 76672,
-   "url": "https://neogenesisai.github.io/toss-share-og/coupon-expiry-bot.jpg"
+   "bytes": 110357,
+   "url": "https://neogenesisai.github.io/toss-share-og/coupon-expiry-bot.jpg",
+   "quality": 90,
+   "source": "og-submissions/coupon-expiry-bot.png sha256 0b9cfacf9afc6067"
   },
   {
    "appName": "dayprep",
@@ -175,14 +177,16 @@
    "appName": "dokkaebi-pawnshop",
    "miniAppId": 46617,
    "title": "커튼콜 공방",
-   "kind": "thumbnail",
+   "kind": "game-submission",
    "file": "dokkaebi-pawnshop.jpg",
    "size": [
     1200,
     600
    ],
-   "bytes": 190056,
-   "url": "https://neogenesisai.github.io/toss-share-og/dokkaebi-pawnshop.jpg"
+   "bytes": 106798,
+   "url": "https://neogenesisai.github.io/toss-share-og/dokkaebi-pawnshop.jpg",
+   "quality": 90,
+   "source": "og-submissions/dokkaebi-pawnshop.png sha256 2ee80d1eb12c0ec0"
   },
   {
    "appName": "etiquette-amount-bot",
