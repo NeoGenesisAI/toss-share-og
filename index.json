@@ -1,0 +1,799 @@
+{
+ "generatedAt": "2026-10-30T11:49:56+09:00",
+ "spec": "1200x600 JPEG (Apps in Toss OG rule)",
+ "images": [
+  {
+   "appName": "ansatda-pet",
+   "miniAppId": 44165,
+   "title": "무지출 챌린지 안샀다",
+   "kind": "thumbnail",
+   "file": "ansatda-pet.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 56758,
+   "url": "https://neogenesisai.github.io/toss-share-og/ansatda-pet.jpg"
+  },
+  {
+   "appName": "bium-fasting",
+   "miniAppId": 46577,
+   "title": "물건 정리 비움",
+   "kind": "provisional-icon",
+   "file": "bium-fasting.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 25830,
+   "url": "https://neogenesisai.github.io/toss-share-og/bium-fasting.jpg"
+  },
+  {
+   "appName": "blockblock-defense",
+   "miniAppId": 44569,
+   "title": "막아막아 디펜스",
+   "kind": "thumbnail",
+   "file": "blockblock-defense.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 252512,
+   "url": "https://neogenesisai.github.io/toss-share-og/blockblock-defense.jpg"
+  },
+  {
+   "appName": "budget-shield",
+   "miniAppId": 46628,
+   "title": "월급 방어전",
+   "kind": "thumbnail",
+   "file": "budget-shield.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 102259,
+   "url": "https://neogenesisai.github.io/toss-share-og/budget-shield.jpg"
+  },
+  {
+   "appName": "bunsik-sort-puzzle",
+   "miniAppId": 43766,
+   "title": "물 정렬 퍼즐",
+   "kind": "thumbnail",
+   "file": "bunsik-sort-puzzle.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 44357,
+   "url": "https://neogenesisai.github.io/toss-share-og/bunsik-sort-puzzle.jpg"
+  },
+  {
+   "appName": "cancel-deadline-bot",
+   "miniAppId": 43797,
+   "title": "이거 어디에 버려?",
+   "kind": "thumbnail",
+   "file": "cancel-deadline-bot.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 47976,
+   "url": "https://neogenesisai.github.io/toss-share-og/cancel-deadline-bot.jpg"
+  },
+  {
+   "appName": "coin-castle",
+   "miniAppId": 44957,
+   "title": "동전산성",
+   "kind": "thumbnail",
+   "file": "coin-castle.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 41455,
+   "url": "https://neogenesisai.github.io/toss-share-og/coin-castle.jpg"
+  },
+  {
+   "appName": "color-luck",
+   "miniAppId": 44968,
+   "title": "오늘의 컬러운",
+   "kind": "thumbnail",
+   "file": "color-luck.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 40596,
+   "url": "https://neogenesisai.github.io/toss-share-og/color-luck.jpg"
+  },
+  {
+   "appName": "confirm-slot",
+   "miniAppId": 45845,
+   "title": "약속 날짜 투표",
+   "kind": "provisional-icon",
+   "file": "confirm-slot.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 30498,
+   "url": "https://neogenesisai.github.io/toss-share-og/confirm-slot.jpg"
+  },
+  {
+   "appName": "confirm-slot-app",
+   "miniAppId": 45848,
+   "title": "고양이 번역기",
+   "kind": "thumbnail",
+   "file": "confirm-slot-app.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 50250,
+   "url": "https://neogenesisai.github.io/toss-share-og/confirm-slot-app.jpg"
+  },
+  {
+   "appName": "coupon-expiry-bot",
+   "miniAppId": 41106,
+   "title": "기프티콘 만료 관리",
+   "kind": "thumbnail",
+   "file": "coupon-expiry-bot.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 76672,
+   "url": "https://neogenesisai.github.io/toss-share-og/coupon-expiry-bot.jpg"
+  },
+  {
+   "appName": "dayprep",
+   "miniAppId": 44959,
+   "title": "오늘 날씨 준비물",
+   "kind": "thumbnail",
+   "file": "dayprep.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 90711,
+   "url": "https://neogenesisai.github.io/toss-share-og/dayprep.jpg"
+  },
+  {
+   "appName": "ddak-kan",
+   "miniAppId": 44568,
+   "title": "블록퍼즐 딱칸",
+   "kind": "thumbnail",
+   "file": "ddak-kan.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 98584,
+   "url": "https://neogenesisai.github.io/toss-share-og/ddak-kan.jpg"
+  },
+  {
+   "appName": "dokkaebi-pawnshop",
+   "miniAppId": 46617,
+   "title": "커튼콜 공방",
+   "kind": "thumbnail",
+   "file": "dokkaebi-pawnshop.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 190056,
+   "url": "https://neogenesisai.github.io/toss-share-og/dokkaebi-pawnshop.jpg"
+  },
+  {
+   "appName": "etiquette-amount-bot",
+   "miniAppId": 43236,
+   "title": "축의금 계산기",
+   "kind": "thumbnail",
+   "file": "etiquette-amount-bot.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 71207,
+   "url": "https://neogenesisai.github.io/toss-share-og/etiquette-amount-bot.jpg"
+  },
+  {
+   "appName": "food-photo-score",
+   "miniAppId": 46707,
+   "title": "음식사진 평점기",
+   "kind": "provisional-icon",
+   "file": "food-photo-score.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 44051,
+   "url": "https://neogenesisai.github.io/toss-share-og/food-photo-score.jpg"
+  },
+  {
+   "appName": "free-trial-guardian",
+   "miniAppId": 44975,
+   "title": "N빵 여행 정산 장부",
+   "kind": "thumbnail",
+   "file": "free-trial-guardian.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 39041,
+   "url": "https://neogenesisai.github.io/toss-share-og/free-trial-guardian.jpg"
+  },
+  {
+   "appName": "golden-holiday-planner",
+   "miniAppId": 43388,
+   "title": "스냅몽",
+   "kind": "thumbnail",
+   "file": "golden-holiday-planner.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 68079,
+   "url": "https://neogenesisai.github.io/toss-share-og/golden-holiday-planner.jpg"
+  },
+  {
+   "appName": "golden-leave-planner",
+   "miniAppId": 43396,
+   "title": "황금연휴 설계사",
+   "kind": "thumbnail",
+   "file": "golden-leave-planner.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 83785,
+   "url": "https://neogenesisai.github.io/toss-share-og/golden-leave-planner.jpg"
+  },
+  {
+   "appName": "goldmine-tap",
+   "miniAppId": 44345,
+   "title": "네온 생존자",
+   "kind": "thumbnail",
+   "file": "goldmine-tap.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 126099,
+   "url": "https://neogenesisai.github.io/toss-share-og/goldmine-tap.jpg"
+  },
+  {
+   "appName": "grantpin",
+   "miniAppId": 46657,
+   "title": "바람을 타고",
+   "kind": "thumbnail",
+   "file": "grantpin.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 112016,
+   "url": "https://neogenesisai.github.io/toss-share-og/grantpin.jpg"
+  },
+  {
+   "appName": "gudok-diet",
+   "miniAppId": 43056,
+   "title": "구독료 절약 계산기",
+   "kind": "thumbnail",
+   "file": "gudok-diet.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 71882,
+   "url": "https://neogenesisai.github.io/toss-share-og/gudok-diet.jpg"
+  },
+  {
+   "appName": "haemeokgi",
+   "miniAppId": 46418,
+   "title": "호텔 마루",
+   "kind": "thumbnail",
+   "file": "haemeokgi.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 209139,
+   "url": "https://neogenesisai.github.io/toss-share-og/haemeokgi.jpg"
+  },
+  {
+   "appName": "han-river-angler",
+   "miniAppId": 46677,
+   "title": "한강 낚시왕",
+   "kind": "thumbnail",
+   "file": "han-river-angler.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 99232,
+   "url": "https://neogenesisai.github.io/toss-share-og/han-river-angler.jpg"
+  },
+  {
+   "appName": "hankkan-sai",
+   "miniAppId": 45829,
+   "title": "배드민턴 복식 대진표",
+   "kind": "thumbnail",
+   "file": "hankkan-sai.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 66143,
+   "url": "https://neogenesisai.github.io/toss-share-og/hankkan-sai.jpg"
+  },
+  {
+   "appName": "hotteok-flip",
+   "miniAppId": 46568,
+   "title": "호떡철판",
+   "kind": "thumbnail",
+   "file": "hotteok-flip.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 194561,
+   "url": "https://neogenesisai.github.io/toss-share-og/hotteok-flip.jpg"
+  },
+  {
+   "appName": "ideal-type-calc",
+   "miniAppId": 46708,
+   "title": "도파믹스",
+   "kind": "thumbnail",
+   "file": "ideal-type-calc.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 85008,
+   "url": "https://neogenesisai.github.io/toss-share-og/ideal-type-calc.jpg"
+  },
+  {
+   "appName": "jeonse-lighthouse",
+   "miniAppId": 44949,
+   "title": "전세사기 예방 체크",
+   "kind": "thumbnail",
+   "file": "jeonse-lighthouse.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 38188,
+   "url": "https://neogenesisai.github.io/toss-share-og/jeonse-lighthouse.jpg"
+  },
+  {
+   "appName": "jeungmyeong-pic",
+   "miniAppId": 46548,
+   "title": "증명사진 규격 맞추기",
+   "kind": "thumbnail",
+   "file": "jeungmyeong-pic.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 55219,
+   "url": "https://neogenesisai.github.io/toss-share-og/jeungmyeong-pic.jpg"
+  },
+  {
+   "appName": "junkyard-tycoon",
+   "miniAppId": 44616,
+   "title": "하버 도저",
+   "kind": "thumbnail",
+   "file": "junkyard-tycoon.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 124253,
+   "url": "https://neogenesisai.github.io/toss-share-og/junkyard-tycoon.jpg"
+  },
+  {
+   "appName": "last-call-deals",
+   "miniAppId": 44958,
+   "title": "돈마감",
+   "kind": "thumbnail",
+   "file": "last-call-deals.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 108255,
+   "url": "https://neogenesisai.github.io/toss-share-og/last-call-deals.jpg"
+  },
+  {
+   "appName": "leak-alert-bot",
+   "miniAppId": 44976,
+   "title": "타워 팡",
+   "kind": "thumbnail",
+   "file": "leak-alert-bot.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 58319,
+   "url": "https://neogenesisai.github.io/toss-share-og/leak-alert-bot.jpg"
+  },
+  {
+   "appName": "lease-notice-clock",
+   "miniAppId": 44966,
+   "title": "전월세 만기 일정",
+   "kind": "thumbnail",
+   "file": "lease-notice-clock.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 29477,
+   "url": "https://neogenesisai.github.io/toss-share-og/lease-notice-clock.jpg"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "title": "한글와르르",
+   "kind": "thumbnail",
+   "file": "letter-route.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 82817,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route.jpg"
+  },
+  {
+   "appName": "longevity-fortune",
+   "miniAppId": 44157,
+   "title": "재물운 금고",
+   "kind": "thumbnail",
+   "file": "longevity-fortune.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 139335,
+   "url": "https://neogenesisai.github.io/toss-share-og/longevity-fortune.jpg"
+  },
+  {
+   "appName": "love-cell",
+   "miniAppId": 45007,
+   "title": "편지 신호",
+   "kind": "thumbnail",
+   "file": "love-cell.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 82355,
+   "url": "https://neogenesisai.github.io/toss-share-og/love-cell.jpg"
+  },
+  {
+   "appName": "lunch-line-legends",
+   "miniAppId": 46608,
+   "title": "급식줄 대작전",
+   "kind": "thumbnail",
+   "file": "lunch-line-legends.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 115154,
+   "url": "https://neogenesisai.github.io/toss-share-og/lunch-line-legends.jpg"
+  },
+  {
+   "appName": "makamaka-defense-deep",
+   "miniAppId": 46609,
+   "title": "소비괴물 디펜스",
+   "kind": "thumbnail",
+   "file": "makamaka-defense-deep.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 68913,
+   "url": "https://neogenesisai.github.io/toss-share-og/makamaka-defense-deep.jpg"
+  },
+  {
+   "appName": "malondo",
+   "miniAppId": 45839,
+   "title": "말온도",
+   "kind": "thumbnail",
+   "file": "malondo.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 92857,
+   "url": "https://neogenesisai.github.io/toss-share-og/malondo.jpg"
+  },
+  {
+   "appName": "malondo-app",
+   "miniAppId": 45847,
+   "title": "퍼스널컬러 자가진단",
+   "kind": "provisional-icon",
+   "file": "malondo-app.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 32082,
+   "url": "https://neogenesisai.github.io/toss-share-og/malondo-app.jpg"
+  },
+  {
+   "appName": "money-trivia",
+   "miniAppId": 44978,
+   "title": "단어풍경",
+   "kind": "thumbnail",
+   "file": "money-trivia.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 118570,
+   "url": "https://neogenesisai.github.io/toss-share-og/money-trivia.jpg"
+  },
+  {
+   "appName": "moving-check-bot",
+   "miniAppId": 40976,
+   "title": "이사 체크리스트",
+   "kind": "thumbnail",
+   "file": "moving-check-bot.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 120229,
+   "url": "https://neogenesisai.github.io/toss-share-og/moving-check-bot.jpg"
+  },
+  {
+   "appName": "muljunnal",
+   "miniAppId": 46426,
+   "title": "식물 물주기 기록 물준날",
+   "kind": "thumbnail",
+   "file": "muljunnal.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 79161,
+   "url": "https://neogenesisai.github.io/toss-share-og/muljunnal.jpg"
+  },
+  {
+   "appName": "name-luck",
+   "miniAppId": 44977,
+   "title": "아기 이름 고르기",
+   "kind": "thumbnail",
+   "file": "name-luck.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 62708,
+   "url": "https://neogenesisai.github.io/toss-share-og/name-luck.jpg"
+  },
+  {
+   "appName": "next-scene",
+   "miniAppId": 45835,
+   "title": "여행 일본어 회화 카드",
+   "kind": "thumbnail",
+   "file": "next-scene.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 66193,
+   "url": "https://neogenesisai.github.io/toss-share-og/next-scene.jpg"
+  },
+  {
+   "appName": "nutri-check",
+   "miniAppId": 46705,
+   "title": "혈압 수첩",
+   "kind": "thumbnail",
+   "file": "nutri-check.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 56783,
+   "url": "https://neogenesisai.github.io/toss-share-og/nutri-check.jpg"
+  },
+  {
+   "appName": "one-pyeong-store",
+   "miniAppId": 40267,
+   "title": "1평상점",
+   "kind": "thumbnail",
+   "file": "one-pyeong-store.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 202742,
+   "url": "https://neogenesisai.github.io/toss-share-og/one-pyeong-store.jpg"
+  },
+  {
+   "appName": "onecut-review",
+   "miniAppId": 45868,
+   "title": "암기카드 만들기",
+   "kind": "thumbnail",
+   "file": "onecut-review.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 49464,
+   "url": "https://neogenesisai.github.io/toss-share-og/onecut-review.jpg"
+  },
+  {
+   "appName": "parking-carousel",
+   "miniAppId": 46616,
+   "title": "회전주차장",
+   "kind": "thumbnail",
+   "file": "parking-carousel.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 32259,
+   "url": "https://neogenesisai.github.io/toss-share-og/parking-carousel.jpg"
+  },
+  {
+   "appName": "personality-16",
+   "miniAppId": 46709,
+   "title": "알바 급여 계산기",
+   "kind": "provisional-icon",
+   "file": "personality-16.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 37273,
+   "url": "https://neogenesisai.github.io/toss-share-og/personality-16.jpg"
+  },
+  {
+   "appName": "pet-baton",
+   "miniAppId": 45828,
+   "title": "강아지 돌봄 집사바통",
+   "kind": "thumbnail",
+   "file": "pet-baton.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 68985,
+   "url": "https://neogenesisai.github.io/toss-share-og/pet-baton.jpg"
+  },
+  {
+   "appName": "return-pack",
+   "miniAppId": 46725,
+   "title": "꿈해몽 사전",
+   "kind": "thumbnail",
+   "file": "return-pack.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 54215,
+   "url": "https://neogenesisai.github.io/toss-share-og/return-pack.jpg"
+  },
+  {
+   "appName": "screw-sort",
+   "miniAppId": 44636,
+   "title": "나사 풀기 퍼즐",
+   "kind": "thumbnail",
+   "file": "screw-sort.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 65541,
+   "url": "https://neogenesisai.github.io/toss-share-og/screw-sort.jpg"
+  },
+  {
+   "appName": "shift-rhythm",
+   "miniAppId": 45826,
+   "title": "교대리듬",
+   "kind": "thumbnail",
+   "file": "shift-rhythm.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 50810,
+   "url": "https://neogenesisai.github.io/toss-share-og/shift-rhythm.jpg"
+  },
+  {
+   "appName": "spot-daily",
+   "miniAppId": 46665,
+   "title": "틀린그림 데일리",
+   "kind": "thumbnail",
+   "file": "spot-daily.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 59538,
+   "url": "https://neogenesisai.github.io/toss-share-og/spot-daily.jpg"
+  },
+  {
+   "appName": "street-kick-tournament",
+   "miniAppId": 43759,
+   "title": "승부차기 토너먼트",
+   "kind": "thumbnail",
+   "file": "street-kick-tournament.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 95884,
+   "url": "https://neogenesisai.github.io/toss-share-og/street-kick-tournament.jpg"
+  },
+  {
+   "appName": "subscription-cleanup-bot",
+   "miniAppId": 41577,
+   "title": "구독정리봇",
+   "kind": "thumbnail",
+   "file": "subscription-cleanup-bot.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 62919,
+   "url": "https://neogenesisai.github.io/toss-share-og/subscription-cleanup-bot.jpg"
+  },
+  {
+   "appName": "today-prep",
+   "miniAppId": 44965,
+   "title": "성경 통독",
+   "kind": "thumbnail",
+   "file": "today-prep.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 40435,
+   "url": "https://neogenesisai.github.io/toss-share-og/today-prep.jpg"
+  },
+  {
+   "appName": "today-question",
+   "miniAppId": 46718,
+   "title": "오늘의 질문",
+   "kind": "thumbnail",
+   "file": "today-question.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 60517,
+   "url": "https://neogenesisai.github.io/toss-share-og/today-question.jpg"
+  },
+  {
+   "appName": "travel-fx",
+   "miniAppId": 46715,
+   "title": "여행 환전 계산기",
+   "kind": "thumbnail",
+   "file": "travel-fx.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 64189,
+   "url": "https://neogenesisai.github.io/toss-share-og/travel-fx.jpg"
+  },
+  {
+   "appName": "triple-day",
+   "miniAppId": 44567,
+   "title": "세 개의 하루",
+   "kind": "thumbnail",
+   "file": "triple-day.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 57980,
+   "url": "https://neogenesisai.github.io/toss-share-og/triple-day.jpg"
+  }
+ ]
+}
