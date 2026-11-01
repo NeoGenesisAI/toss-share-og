@@ -439,14 +439,16 @@
    "appName": "letter-route",
    "miniAppId": 45837,
    "title": "한글와르르",
-   "kind": "thumbnail",
+   "kind": "game-submission",
    "file": "letter-route.jpg",
    "size": [
     1200,
     600
    ],
-   "bytes": 82817,
-   "url": "https://neogenesisai.github.io/toss-share-og/letter-route.jpg"
+   "bytes": 177037,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route.png sha256 c9d258c1d6c18710"
   },
   {
    "appName": "longevity-fortune",
