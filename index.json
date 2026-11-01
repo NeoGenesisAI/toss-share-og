@@ -801,5 +801,263 @@
    "bytes": 57980,
    "url": "https://neogenesisai.github.io/toss-share-og/triple-day.jpg"
   }
- ]
+ ],
+ "cards": [
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "memory-card",
+   "word": "맷돌",
+   "file": "letter-route/memory/mem-00.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 93361,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/memory/mem-00.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-memory/letter-route-mem-00.png sha256 fc7c40974631920d"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "memory-card",
+   "word": "다듬이",
+   "file": "letter-route/memory/mem-01.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 87663,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/memory/mem-01.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-memory/letter-route-mem-01.png sha256 4e5d0f0999be636b"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "memory-card",
+   "word": "등잔",
+   "file": "letter-route/memory/mem-02.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 79014,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/memory/mem-02.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-memory/letter-route-mem-02.png sha256 a83a66caed5a0c72"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "memory-card",
+   "word": "가마솥",
+   "file": "letter-route/memory/mem-03.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 105968,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/memory/mem-03.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-memory/letter-route-mem-03.png sha256 31aef9495f679043"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "memory-card",
+   "word": "연탄",
+   "file": "letter-route/memory/mem-04.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 112909,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/memory/mem-04.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-memory/letter-route-mem-04.png sha256 f9ccd39e579eb831"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "memory-card",
+   "word": "장독대",
+   "file": "letter-route/memory/mem-05.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 92754,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/memory/mem-05.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-memory/letter-route-mem-05.png sha256 69c69bb7b62a3278"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "memory-card",
+   "word": "우물",
+   "file": "letter-route/memory/mem-06.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 108372,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/memory/mem-06.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-memory/letter-route-mem-06.png sha256 79836de835b34ac0"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "memory-card",
+   "word": "달고나",
+   "file": "letter-route/memory/mem-07.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 96281,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/memory/mem-07.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-memory/letter-route-mem-07.png sha256 6eeb02e3a738b661"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "memory-card",
+   "word": "붕어빵",
+   "file": "letter-route/memory/mem-08.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 109255,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/memory/mem-08.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-memory/letter-route-mem-08.png sha256 1046298e6d5fd48e"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "memory-card",
+   "word": "뻥튀기",
+   "file": "letter-route/memory/mem-09.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 103597,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/memory/mem-09.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-memory/letter-route-mem-09.png sha256 3588eae883c29825"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "memory-card",
+   "word": "딱지치기",
+   "file": "letter-route/memory/mem-10.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 92064,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/memory/mem-10.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-memory/letter-route-mem-10.png sha256 de99c3b439995b38"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "memory-card",
+   "word": "우체통",
+   "file": "letter-route/memory/mem-11.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 84233,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/memory/mem-11.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-memory/letter-route-mem-11.png sha256 c0d47f8392b34e33"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "memory-card",
+   "word": "난로",
+   "file": "letter-route/memory/mem-12.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 89627,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/memory/mem-12.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-memory/letter-route-mem-12.png sha256 70584537eb9f90eb"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "memory-card",
+   "word": "라디오",
+   "file": "letter-route/memory/mem-13.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 108508,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/memory/mem-13.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-memory/letter-route-mem-13.png sha256 4871c1aecb80134f"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "memory-card",
+   "word": "가래떡",
+   "file": "letter-route/memory/mem-14.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 78387,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/memory/mem-14.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-memory/letter-route-mem-14.png sha256 15369cc067261b5a"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "memory-card",
+   "word": "찹쌀떡",
+   "file": "letter-route/memory/mem-15.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 100111,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/memory/mem-15.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-memory/letter-route-mem-15.png sha256 19ef4433155684b0"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "memory-card",
+   "word": "김장",
+   "file": "letter-route/memory/mem-16.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 108498,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/memory/mem-16.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-memory/letter-route-mem-16.png sha256 ae34d3b6f498b33d"
+  }
+ ],
+ "cardsNote": "Per-content share previews kept apart from `images` (one image per app): 45837 한글와르르's 오늘의 추억 낱말 cards, one per word, used only by that game's card share (11-02, 게임리빌드3; the game's own generated art, no prices or rewards)."
 }
