@@ -1057,6 +1057,502 @@
    "url": "https://neogenesisai.github.io/toss-share-og/letter-route/memory/mem-16.jpg",
    "quality": 90,
    "source": "og-submissions/letter-route-memory/letter-route-mem-16.png sha256 ae34d3b6f498b33d"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d01",
+   "title": "외할머니 댁",
+   "file": "letter-route/place/c1-d01.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 109725,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d01.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d01.png sha256 b7ca4de2e362b5fd"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d02",
+   "title": "골목길",
+   "file": "letter-route/place/c1-d02.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 109418,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d02.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d02.png sha256 eadb706142c511d3"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d03",
+   "title": "옛 학교",
+   "file": "letter-route/place/c1-d03.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 110599,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d03.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d03.png sha256 dde0f081539c7f8e"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d04",
+   "title": "구멍가게",
+   "file": "letter-route/place/c1-d04.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 108289,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d04.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d04.png sha256 06b31b5e6db73d7b"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d05",
+   "title": "동네 한 바퀴",
+   "file": "letter-route/place/c1-d05.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 107326,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d05.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d05.png sha256 fab81148d3c00fed"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d06",
+   "title": "마을 잔치",
+   "file": "letter-route/place/c1-d06.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 112364,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d06.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d06.png sha256 83dbf63ca4fdef4f"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d07",
+   "title": "오일장",
+   "file": "letter-route/place/c1-d07.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 108929,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d07.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d07.png sha256 6fb154d9234695a8"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d08",
+   "title": "제철 밥상",
+   "file": "letter-route/place/c1-d08.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 113206,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d08.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d08.png sha256 7e6f2161689111f4"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d09",
+   "title": "반찬 하는 날",
+   "file": "letter-route/place/c1-d09.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 105987,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d09.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d09.png sha256 0d830a4b971ef604"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d10",
+   "title": "빵집과 찻집",
+   "file": "letter-route/place/c1-d10.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 117061,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d10.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d10.png sha256 ed6640122524d5b3"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d11",
+   "title": "명절 부엌",
+   "file": "letter-route/place/c1-d11.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 113275,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d11.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d11.png sha256 0a1fb5538114990d"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d12",
+   "title": "속담 마당",
+   "file": "letter-route/place/c1-d12.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 112600,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d12.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d12.png sha256 28354a2646027e69"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d13",
+   "title": "사자성어 서당",
+   "file": "letter-route/place/c1-d13.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 108540,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d13.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d13.png sha256 fe35d462ba09f592"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d14",
+   "title": "옛말 사랑방",
+   "file": "letter-route/place/c1-d14.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 108147,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d14.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d14.png sha256 dc4f74b5cb70d9b6"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d15",
+   "title": "옛이야기",
+   "file": "letter-route/place/c1-d15.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 114656,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d15.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d15.png sha256 bd223a1c6bd9380a"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d16",
+   "title": "민속놀이",
+   "file": "letter-route/place/c1-d16.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 111271,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d16.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d16.png sha256 fd5451ace0728d0c"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d17",
+   "title": "봄꽃길",
+   "file": "letter-route/place/c1-d17.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 108345,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d17.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d17.png sha256 bf1bee636aec00b8"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d18",
+   "title": "여름 바닷가",
+   "file": "letter-route/place/c1-d18.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 109772,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d18.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d18.png sha256 071ad44e5208b324"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d19",
+   "title": "가을 들녘",
+   "file": "letter-route/place/c1-d19.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 109767,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d19.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d19.png sha256 264aab5ed4604bbb"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d20",
+   "title": "겨울 마을",
+   "file": "letter-route/place/c1-d20.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 106392,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d20.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d20.png sha256 6e2864be3dfff53d"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d21",
+   "title": "절기와 날씨",
+   "file": "letter-route/place/c1-d21.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 110019,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d21.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d21.png sha256 d0ca67225bfbe760"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d22",
+   "title": "서울 나들이",
+   "file": "letter-route/place/c1-d22.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 113839,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d22.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d22.png sha256 4b4f2117db17ba3f"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d23",
+   "title": "강원 산골",
+   "file": "letter-route/place/c1-d23.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 110143,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d23.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d23.png sha256 bfde35f9f1355082"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d24",
+   "title": "충청·전라 들길",
+   "file": "letter-route/place/c1-d24.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 114865,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d24.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d24.png sha256 079b58acaa7a67af"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d25",
+   "title": "경상 바닷길",
+   "file": "letter-route/place/c1-d25.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 110761,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d25.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d25.png sha256 daeafa07d34a9820"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d26",
+   "title": "제주 바람길",
+   "file": "letter-route/place/c1-d26.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 109158,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d26.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d26.png sha256 73d3b56287376dbc"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d27",
+   "title": "우리 집 식구",
+   "file": "letter-route/place/c1-d27.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 107092,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d27.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d27.png sha256 99de788b3724f728"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d28",
+   "title": "기차 여행",
+   "file": "letter-route/place/c1-d28.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 110263,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d28.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d28.png sha256 bb285f53705f4cd2"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d29",
+   "title": "동네 일꾼들",
+   "file": "letter-route/place/c1-d29.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 114095,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d29.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d29.png sha256 4d9fa7ff954781bd"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d30",
+   "title": "취미 생활",
+   "file": "letter-route/place/c1-d30.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 108586,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d30.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d30.png sha256 457adfbb20c6e566"
+  },
+  {
+   "appName": "letter-route",
+   "miniAppId": 45837,
+   "kind": "place-card",
+   "place": "c1-d31",
+   "title": "손주와 함께",
+   "file": "letter-route/place/c1-d31.jpg",
+   "size": [
+    1200,
+    600
+   ],
+   "bytes": 112944,
+   "url": "https://neogenesisai.github.io/toss-share-og/letter-route/place/c1-d31.jpg",
+   "quality": 90,
+   "source": "og-submissions/letter-route-place/letter-route-place-c1-d31.png sha256 eaf55d60b5ceb326"
   }
  ],
  "cardsNote": "Per-content share previews kept apart from `images` (one image per app): 45837 한글와르르's 오늘의 추억 낱말 cards, one per word, used only by that game's card share (11-02, 게임리빌드3; the game's own generated art, no prices or rewards)."
