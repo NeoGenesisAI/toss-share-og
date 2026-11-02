@@ -688,14 +688,16 @@
    "appName": "screw-sort",
    "miniAppId": 44636,
    "title": "나사 풀기 퍼즐",
-   "kind": "thumbnail",
+   "kind": "game-submission",
    "file": "screw-sort.jpg",
    "size": [
     1200,
     600
    ],
-   "bytes": 65541,
-   "url": "https://neogenesisai.github.io/toss-share-og/screw-sort.jpg"
+   "bytes": 94592,
+   "url": "https://neogenesisai.github.io/toss-share-og/screw-sort.jpg",
+   "quality": 90,
+   "source": "og-submissions/screw-sort-frame36.png sha256 d593ac4bbe23e92c"
   },
   {
    "appName": "shift-rhythm",
